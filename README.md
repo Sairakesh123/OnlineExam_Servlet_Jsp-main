@@ -88,9 +88,7 @@ In this project there are four sub modules:
 ### Certificate Page
 ![Screenshot (219)](https://user-images.githubusercontent.com/95666818/213916877-1c5f2c6c-eb2c-4832-9081-e260fa8b870b.png)
 
-## Authors
 
-- [@Mohd Ahasan Khan](https://github.com/MOHDAHASANKHAN1)
 
 
 ## 🔗 Links
